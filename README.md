@@ -7,13 +7,13 @@
 
 - 제작 기간 : 2020년 11월 25일 ~ 12월 25일
 - 참여 인원 : 4명
-- 역할 : 발주 기능
+- 내 역할 : 발주 기능
  
 ------------------------
 ## 2. 사용 기술
 
 >- OS : Window 10 
->- 개발언어 : JAVA 
+>- 개발언어 : JAVA 8  
 >- DB : Oracle 
 >- Tool : Eclipse (jdk-14) 
 >- 외부 라이브러리 :  jdbc(ojdbc8.jar) / jfreechart(jcommon-1.0.23.jar, jfreechart-1.0.19.jar) 
