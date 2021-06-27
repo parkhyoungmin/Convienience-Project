@@ -18,7 +18,10 @@
 >- 외부 라이브러리 :  jdbc(ojdbc8.jar) / jfreechart(jcommon-1.0.23.jar, jfreechart-1.0.19.jar) 
 
 -----------------------------
+## 3. ERD 설계
+![diagram](https://user-images.githubusercontent.com/74581783/123541340-f61ed900-d77e-11eb-9460-1b7c63e7df3c.jpg)
 
+-----------------------------
 ## 4. View
 
 >- 회원가입
