@@ -25,16 +25,10 @@
 
 <img src="https://user-images.githubusercontent.com/27937031/106218442-a01f2700-621a-11eb-9b2c-010fc7dd31b1.JPG"  width="700" height="370">
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 >- 로그인
 
-<img src="https://user-images.githubusercontent.com/27937031/106218292-664e2080-621a-11eb-8208-d6eb8264f63f.JPG"  width="700" height="370">
+<img src="https://user-images.githubusercontent.com/27937031/106218292-664e2080-621a-11eb-8208-d6eb8264f63f.JPG"  width="700" height="350">
 <br>
 
 >- 메인화면
