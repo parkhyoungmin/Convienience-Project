@@ -38,7 +38,7 @@
 
 >- 판매화면
   
-<img src="https://user-images.githubusercontent.com/27937031/106218460-a90ff880-621a-11eb-8f74-d68c0445c244.JPG"  width="700" height="370">
+<img src="https://user-images.githubusercontent.com/27937031/106218460-a90ff880-621a-11eb-8f74-d68c0445c244.JPG"  width="700" height="390">
 <br>
 
 >- 정산화면
