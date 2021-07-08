@@ -33,17 +33,17 @@
 
 >- 메인화면
   
-<img src="https://user-images.githubusercontent.com/27937031/106218368-841b8580-621a-11eb-84f4-c129d6b043db.JPG"  width="700" height="370">
+<img src="https://user-images.githubusercontent.com/27937031/106218368-841b8580-621a-11eb-84f4-c129d6b043db.JPG"  width="700" height="400">
 <br>  
 
 >- 판매화면
   
-<img src="https://user-images.githubusercontent.com/27937031/106218460-a90ff880-621a-11eb-8f74-d68c0445c244.JPG"  width="700" height="390">
+<img src="https://user-images.githubusercontent.com/27937031/106218460-a90ff880-621a-11eb-8f74-d68c0445c244.JPG"  width="700" height="400">
 <br>
 
 >- 정산화면
   
-<img src="https://user-images.githubusercontent.com/27937031/106218463-aad9bc00-621a-11eb-964b-cd2c02b71945.JPG"  width="700" height="390">
+<img src="https://user-images.githubusercontent.com/27937031/106218463-aad9bc00-621a-11eb-964b-cd2c02b71945.JPG"  width="700" height="400">
 
 >- 발주기능
 
