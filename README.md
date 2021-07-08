@@ -43,7 +43,7 @@
 
 >- 정산화면
   
-<img src="https://user-images.githubusercontent.com/27937031/106218463-aad9bc00-621a-11eb-964b-cd2c02b71945.JPG"  width="700" height="370">
+<img src="https://user-images.githubusercontent.com/27937031/106218463-aad9bc00-621a-11eb-964b-cd2c02b71945.JPG"  width="700" height="390">
 
 >- 발주기능
 
